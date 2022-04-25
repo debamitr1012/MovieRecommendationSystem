@@ -1,2 +1,3 @@
 # Movie Recommendation System
-Dataset: movies.csv & ratings.csv
+Dataset: movies & ratings (.csv)
+Notebook: mrs (.ipynb)
