@@ -1,2 +1,2 @@
 # Movie Recommendation System
-## Dataset: movies.csv & ratings.csv
+Dataset: movies.csv & ratings.csv
